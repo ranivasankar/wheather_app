@@ -5,3 +5,4 @@ Search for cities globally.
 View temperature, humidity, wind speed, and weather conditions.
 Toggle between Celsius and Fahrenheit.
 Responsive design for mobile and desktop.
+https://ranivasankar.github.io/wheather_app/
